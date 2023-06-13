@@ -1,0 +1,17 @@
+@font-face {
+    font-family: yekan;
+    src: url(../fonts/Yekan.ttf) format(truetype);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: yekan-b;
+    src: url(../fonts/Yekan-Bold.ttf) format(truetype);
+    font-size: bold;
+}
+
+* {
+    direction: rtl;
+    font-family: yekan, serif !important;
+    font-size: 100%;
+}
